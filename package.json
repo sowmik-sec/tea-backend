@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.0.0-beta.2"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
   }
 }
